@@ -1,6 +1,6 @@
-'''En Mozilla México valoramos la participación de todos los miembros de la comunidad y queremos que todos los Mozillians tengan una experiencia agradable y satisfactoria. En consecuencia, se espera que todos los miembros muestren respeto y cortesía a otros miembros de la comunidad.''' 
+**En Mozilla México valoramos la participación de todos los miembros de la comunidad y queremos que todos los Mozillians tengan una experiencia agradable y satisfactoria. En consecuencia, se espera que todos los miembros muestren respeto y cortesía a otros miembros de la comunidad.**
 
-= La versión corta =
+# La versión corta 
 
 Los miembros de Mozilla México se comprometen a mantener un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación sexual, elección de software o sistema operativo, discapacidad, aspecto físico, edad, raza, nacionalidad, creencia religiosa, educación, gustos personales o ideales. 
 
@@ -12,7 +12,7 @@ Algunos proyectos o áreas de Mozilla pueden tener reglas adicionales en su luga
 
 Si eres víctima de conductas abusivas,  notas que otra persona está siendo acosada, o tienes dudas, por favor contacta al equipo de resolución de conflictos '''(inclusion[at]mozilla-mexico.org)''' inmediatamente.
 
-= La versión un poco más larga =
+# La versión un poco más larga
 
 Mozilla México se compromete  a proveer una experiencia libre de acoso para todos. No toleramos el acoso de los participantes en ninguna forma.
 
@@ -34,7 +34,7 @@ No toleramos el acoso a miembros de la comunidad bajo ningún concepto, por ejem
 * Continuar  la comunicación uno-a-uno después de las solicitudes de alto.
 * Publicar elementos de comunicación privada sin conocimiento de la otra persona, como correos, mensajes de texto, etc..
 
-== Informa ==
+## Informa 
 
 Si eres acosado por un miembro de Mozilla México, notas que alguien más está siendo acosado o tiene alguna otra preocupación, por favor ponte en contacto con el equipo de resolución de conflictos '''(inclusion[at]mozilla-mexico.org)'''. Si la persona que te está acosando está en el equipo de resolución de conflictos, el equipo se abstendrá de tomar el caso y se buscará un reemplazo, provisional o definitivo, según la situación. Responderemos tan pronto como podamos.
 
@@ -44,7 +44,7 @@ Con el fin de proteger a los voluntarios contra el abuso y el agotamiento, nos r
 
 Respetaremos las solicitudes de confidencialidad con el propósito de proteger a las víctimas de abuso y no nombraremos víctimas de acoso sin su consentimiento. En el siguiente apartado puedes leer sobre el tratamiento de la denuncia y el papel del Equipo de Resolución de Conflictos cuando es necesaria su intervención. 
 
-== Cumplimiento del CoC y el papel del Equipo de resolución de conflictos. ==
+## Cumplimiento del CoC y el papel del Equipo de resolución de conflictos. 
 
 Para poder garantizar el cumplimiento del presente Código de Conducta, existe un Equipo de Resolución de Conflictos que podrá actuar por iniciativa propia o a solicitud de cualquier miembro de la Comunidad de Mozilla México o de un tercero con relación directa mediante una denuncia realizada de buena fe. Para ello, se pone a la disposición de todos el correo '''(inclusion[at]mozilla-mexico.org)''', al cual se pueden enviar:
 
@@ -56,10 +56,10 @@ El equipo de resolución de conflictos se encargará de:
 * Supervisar el cumplimiento y la difusión interna del CoC dentro de la comunidad de Mozilla México.
 * Recibir todo tipo de escritos, relacionados con la aplicación del Código.
 * Tomar cualquier acción que considere apropiada para garantizar que dentro de la comunidad se siga siempre el CoC. Estas acciones incluyen:
-#  La difusión del código
-#  La adaptación del mismo de acuerdo a las necesidades de la comunidad
-#  Implementar las acciones para resolver conflictos, tales como la investigación, negociación y en su caso, aplicación de sanciones, las cuales incluyen en casos graves, la expulsión de todos los espacios de Mozilla México y la identificación del participante como acosador dentro de la comunidad o con terceros.
-#  La interpretación de las dudas que plantee la aplicación del Código.
+  * La difusión del código
+  * La adaptación del mismo de acuerdo a las necesidades de la comunidad
+  * Implementar las acciones para resolver conflictos, tales como la investigación, negociación y en su caso, aplicación de sanciones, las cuales incluyen en casos graves, la expulsión de todos los espacios de Mozilla México y la identificación del participante como acosador dentro de la comunidad o con terceros.
+  * La interpretación de las dudas que plantee la aplicación del Código.
 * Controlar y supervisar los expedientes de cualquier conflicto que se presente con miembros de la comunidad, y su resolución. 
 * La generación de un informe anual en el que se analicen los problemas presentados y su resolución.
 
